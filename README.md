@@ -1,6 +1,6 @@
 ### SCRE SINCE 2021
 
-I'm learing python and js
+server programmer and reverse engineer
 
 ![SparkyDev9339 GitHub stats](https://github-readme-stats.vercel.app/api?username=SparkyDev9339&layout=compact&langs_count=7&theme=dracula)
 
